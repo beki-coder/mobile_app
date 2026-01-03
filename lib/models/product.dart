@@ -35,4 +35,3 @@ class Product {
   static fromFirestore(QueryDocumentSnapshot<Object?> doc) {}
 }
 
-
